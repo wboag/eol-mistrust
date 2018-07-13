@@ -1,0 +1,12 @@
+ipython
+notebook
+psycopg2
+psycopg2-binary
+numpy
+scipy
+matplotlib
+tqdm
+pandas
+tableone
+scikit-learn
+pattern
