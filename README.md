@@ -2,6 +2,7 @@
 Race and Mistrust in End-of-Life Care
 
 The code folder has 6 notebooks:
+
 	1. race_mimic_aggressive.ipynb: Generate the figures for race-based treatment disparities in MIMIC
 
 	2. trust.ipynb: Generates the various mistrust metric proxies and saves them to file.
@@ -16,6 +17,7 @@ The code folder has 6 notebooks:
 
 
 Run trust.ipynb before running:
+
 	- mistrust_mimic_aggressive.ipynb
 
 	- cohort.ipynb
