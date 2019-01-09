@@ -12,12 +12,20 @@ Short workshop paper (FAT/ML 2018): https://arxiv.org/abs/1807.00124
 
 15-page conference paper (MLHC 2018): https://arxiv.org/abs/1808.03827
 
-    @article{boag-mlhc2018,
-     title={Racial Disparities and Mistrust in End-of-Life Care},
-     author={W. Boag and H. Suresh and L.A. Celi and P. Szolovits and M. Ghassemi},
-     publisher={Machine Learning for Healthcare (MLHC)},
-     year={2018}
-    }
+	@InProceedings{boag-mistrust2018,
+	 title =      {Racial Disparities and Mistrust in End-of-Life Care},
+	 author =      {Boag, W. and Suresh, H. and Celi, L.A. and Szolovits, P. and Ghassemi, M.},
+	 booktitle =      {Proceedings of the 3rd Machine Learning for Healthcare Conference},
+	 pages =      {587--602},
+	 year =      {2018},
+	 volume =      {85},
+	 series =      {Proceedings of Machine Learning Research},
+	 address =      {Palo Alto, California},
+	 month =      {17--18 Aug},
+	 publisher =      {PMLR},
+	 pdf =      {http://proceedings.mlr.press/v85/boag18a/boag18a.pdf},
+	 url =      {http://proceedings.mlr.press/v85/boag18a.html},
+	}
 
 Masters Thesis: https://willieboag.files.wordpress.com/2018/05/wboag-masters.pdf
 
